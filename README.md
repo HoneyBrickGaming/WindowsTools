@@ -1,6 +1,6 @@
 # QuickTools
 
-**The publication should take place at the end of July**
+**The publication should take place when .NET 7 comes out (November)**
 
 **QuickTools** is a Portable Downloader for the programs which are already built in. You can download Youtube Videos, make your SaveGame (from a videogame) Portable and even update your Graphic Driver, but everything is made PORTABLE!
 
