@@ -4,7 +4,10 @@
 
 **QuickTools** is a Portable Downloader for the programs which are already built in. You can download Youtube Videos, make your SaveGame (from a videogame) Portable and even update your Graphic Driver, but everything is made PORTABLE!
 
-![QuickTools Image](/repository/assets/ApplicaitonImage.png?raw=true "Application Image")
+<p align=center>
+    <img src="assets/ApplicaitonImage.png"/>
+  </a>
+</p>
 
 ## Features
 
