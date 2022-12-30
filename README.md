@@ -4,7 +4,7 @@
 
 **QuickTools** is a Portable Downloader for the programs which are already built in. You can download Youtube Videos, make your SaveGame (from a videogame) Portable and even update your Graphic Driver, but everything is made PORTABLE!
 
-<p align=center>
+<p align=left>
     <img src="assets/ApplicaitonImage.png"/>
   </a>
 </p>
@@ -22,7 +22,6 @@
 
 - Windows 10/11
 - 200MB-2000MB free space (Depends on what you use)
-- .NET6
 
 ## Supported languages
 
