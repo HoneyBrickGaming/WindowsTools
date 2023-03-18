@@ -11,12 +11,13 @@
 
 ## Features
 
-- Download and start every program which is build in in Portable mode
+- Download and start every program which is build in, in Portable mode
 - Base64 encrypt/decrypt
 - Registry Hacks
 - Energy options
 - Portable Games
 - Install applications
+- Compress downloaded applications with QuickTools automatically
 
 ## Requirements
 
