@@ -21,7 +21,7 @@
 ## Requirements
 
 - Windows 10/11
-- 200MB-2000MB free space (Depends on what you use)
+- 200MB-3000MB free space (Depends on what you use)
 
 ## Supported languages
 
